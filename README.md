@@ -1,6 +1,6 @@
 # Dev F4ncy 
 
-***Curso de Bootstrap da DIO***
+***Site desenvolvido com conceitos do Curso de Bootstrap da DIO***
 
 <img src="Captura da Web_18-1-2022_2505_.jpeg">
 
