@@ -2,6 +2,7 @@
 
 ***Curso de Bootstrap da DIO***
 
+<img src="Captura da Web_18-1-2022_2505_.jpeg">
 
 ***Sobre o projeto:***
 > Como eu nunca tinha usado um framework, resolvi encarar esse curso. Aorendi muitas coisas lendo os docs e vendo as aulas, mudei muita coisa doque foi passada porque gosto de coisas só minhas rs.
